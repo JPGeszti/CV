@@ -2,7 +2,7 @@
 
 \
 **GESZTI GYULA PETER\
-Medical Physicist**\
+Physicist / Developer**\
 
 ------------------------------------------------------------------------
 
@@ -12,28 +12,28 @@ Medical Physicist**\
 [Contact Details]{.smallcaps}\
 gesztigyulapeter@gmail.com\
 Mobile: +36 30 375 5210\
-`https://github.com/JPGeszti`
+`https://github.com/JPGeszti`\
+
+![image](Profile.png){width="\\linewidth"}
 :::
 
 ::: flushleft
 ## Personal Statement {#personal-statement .unnumbered}
 
-I am a physicist with a background in theoretical physics and a passion
-for the field of medical physics. During my undergraduate studies, I had
-the opportunity to work on a fascinating project focused on inverse
-optimization algorithms used in radiotherapy treatment planning. This
-experience allowed me to gain practical insights into the application of
-physics in healthcare and further sparked my interest in the field. For
-my postgraduate project, I worked on ASL-MRI sequence optimization and
-automated image processing.
+Passionate about the intersection of physics and healthcare, I am a
+physicist with a strong background in medical physics. My undergraduate
+project focused on inverse optimization algorithms in radiotherapy
+treatment planning, giving me practical insights into the application of
+physics in healthcare. In my postgraduate project, I optimized ASL-MRI
+sequences and created an efficient image processing pipeline for
+clinicians.
 
-In my previous job placement, I had the opportunity to engage in
-software development tasks that required expertise in the Java
-programming language. I thoroughly enjoyed this aspect of my work, as it
-allowed me to combine my physics knowledge with programming skills to
-create efficient and effective solutions. Furthermore, my recent
-postgraduate studies have equipped me with a strong foundation in Python
-development, expanding my repertoire of programming languages.
+I also have **experience in software development** using `Java` and
+`Python`, combining my physics knowledge with programming skills to
+create efficient solutions. Additionally, **my recent postgraduate
+studies have enhanced my proficiency in machine learning methods and
+artificial intelligence applications**, expanding my programming
+repertoire and analytic capabilities.
 :::
 
 # Work Experience {#work-experience .unnumbered}
@@ -53,15 +53,19 @@ July]{.smallcaps}
 
 [Mediso Ltd. --- 2 years & 9 months]{.smallcaps}
 
-In my role as an MRI physicist, I did R&D for the MRI modality with a
-team of engineers and physicists. I aided the software development of
-the nanoScan MRI and PET/MRI lineup. My responsibilities included
-sequence development based on user requirements. I also provided
-protocols with the developed imaging sequences for the users, and
-gathered experience with protocol optimization and sequence testing on
-the hardware. I also worked on projects where post-processing pipelines
-were developed and implemented in the software. My main coding languages
-were `Java` and `MATLAB` for the given projects.
+![image](mediso.jpg){width="\\linewidth"}
+
+As an MRI physicist, I played a key role in the **research and
+development of the MRI modality**, collaborating with a team of
+engineers and physicists. Specifically, I contributed to the software
+development of the nanoScan MRI and PET/MRI lineup. My responsibilities
+encompassed sequence development based on user requirements, optimizing
+protocols, and conducting sequence testing on the hardware.
+Additionally, I participated in projects involving the development and
+implementation of post-processing pipelines within the software.
+Throughout these endeavours, I utilized and improved my coding skills in
+`Java` and `MATLAB`, which further ignited my interest in software
+development.
 :::
 
 \
@@ -83,6 +87,8 @@ September]{.smallcaps}
 
 [ELTE --- Eötvös Loránd Research University]{.smallcaps} [Postgraduate
 Specialization Program]{.smallcaps}
+
+![image](elte.jpg){width="\\linewidth"}
 
 The focus of the training is machine learning, its techniques and
 solutions from the fields of statistics and deep learning, as well as
@@ -107,14 +113,20 @@ September]{.smallcaps}
 
 [KCL --- King's College London]{.smallcaps}
 
-The course is accredited by [IPEM]{.smallcaps}. I completed the courses
-of the **Medical Physics** stream to become a medical physicist. **My
-thesis project** was on the application of ASL-MRI in the early
-detection of dementia, conducted in the Neuroradiology Department of
-King's College Hospital. This project involved the creation of a
-dedicated `MATLAB` based software for image processing and visualization
-as well as the utilization of python tools for further interactive data
-visualization.
+![image](kcl.png){width="\\linewidth"}
+
+The course I pursued was accredited by [IPEM]{.smallcaps}, the Institute
+of Physics and Engineering in Medicine. Within this program, I
+specialized in the Medical Physics stream, furthering my journey towards
+becoming a skilled medical physicist.
+
+For my thesis project, I focused on the application of ASL-MRI in the
+early detection of dementia. This research was carried out in
+collaboration with the Neuroradiology Department at King's College
+Hospital. Throughout this project, I developed a dedicated software
+pipeline using `MATLAB` for image processing and visualization.
+Additionally, I utilized python tools to enhance the interactive data
+visualization aspects.
 :::
 
 \
@@ -134,13 +146,21 @@ September]{.smallcaps}
 
 [ELTE --- Eötvös Loránd Research University]{.smallcaps}
 
-The focus of the course had more emphasis on theoretical physics and
-research. From the third semester, I also took specialized courses in
-bioengineering and biophysics. I also had courses in computer science,
-focusing mainly on `C` and `C++` programming languages and their
-applications in computational physics. **My thesis project** was on
-brachytherapy treatment planning and optimization, conducted in the
-Radiotherapy Department of the Hungarian National Institute of Oncology.
+![image](elte.jpg){width="\\linewidth"}
+
+During my course of study, I dedicated my focus to theoretical physics
+and research. As I progressed into the third semester, I expanded my
+knowledge by enrolling in specialized courses in bioengineering and
+biophysics. Additionally, I pursued courses in computer science, with a
+particular emphasis on utilizing the `C` and `C++` programming languages
+for computational physics applications.
+
+My thesis project centered around brachytherapy treatment planning and
+optimization, conducted in collaboration with the Radiotherapy
+Department at the Hungarian National Institute of Oncology. This
+immersive project allowed me to apply my theoretical knowledge in a
+practical setting, providing a deeper understanding of the field while
+solidifying my passion for medical physics.
 :::
 
 \
@@ -160,6 +180,8 @@ September]{.smallcaps}
 
 [Tóth Árpád Secondary School]{.smallcaps}
 
+![image](ib.png){width="\\linewidth"}
+
 I took `Chemistry`, `Biology` and `English Literature` as higher level
 subjects; and `History`, `Mathematics` and `Hungarian Literature` as
 standard level subjects.
@@ -171,6 +193,8 @@ standard level subjects.
 
 [Neuroradiology Department of King's College Hospital]{.smallcaps}\
 [March 2019 --- September 2019]{.smallcaps}
+
+![image](kch.jpg){width="\\linewidth"}
 
 The main aim of the project was the development of an optimized and
 quantitative ASL-MRI data acquisition and analyses protocol for dementia
@@ -190,14 +214,18 @@ Academic Supervisor: Enrico De Vita Clinical Supervisor: Marco Borri
 [Hungarian National Institute of Oncology]{.smallcaps}\
 [November 2017 --- June 2018]{.smallcaps}
 
-The main aim of the project was the comparison and retrospective
-analyses of two optimization algorithms on patients who had undergone
-high dose rate brachytherapy treatment. The project involved the
-establishment of a set of previously optimized patient data, and the
-optimization of these with the new algorithm. This set of patient data
-was then statistically evaluated to compare the two algorithms. For this
-evaluation, StatSoft's STATISTICA 12 software was used. The project was
-carried out in the Hungarian National Institute of Oncology.
+![image](noi.jpg){width="\\linewidth"}
+
+In this project conducted at the Hungarian National Institute of
+Oncology, my main focus was to compare and retrospectively analyze two
+optimization algorithms used in high dose rate brachytherapy treatment.
+The project involved working with a well-established dataset of
+optimized patient data and utilizing the new algorithm to optimize this
+dataset further. To compare the performance of the algorithms, I
+conducted a comprehensive statistical evaluation using StatSoft's
+STATISTICA 12 software. This immersive project provided a unique
+opportunity to delve into the intricacies of radiation therapy
+optimization and its impact on patient outcomes.
 
 Supervisor: Georgina Fröhlich
 
@@ -209,16 +237,18 @@ $$\arraycolsep=12pt
     & \textbf{English} (Full Professional Proficiency)  \\
     & \textbf{Spanish} (Elemenetary Proficiency) \\[6pt]
         
-    \mbox{\textsc{Programming Languages}} & Java --- C --- C++ --- MATLAB --- Python --- R   \\[6pt]
+    \mbox{\textsc{Programming Languages}}   & Java (Seniority: Middle) --- Python (NumPy, Pandas) \\
+                                            & MATLAB --- C --- C++ --- R --- SQL  \\[6pt]
         
-    \mbox{\textsc{Software Experience}} & \textbf{Microsoft Office Tools}
-    \\& Word --- Excel --- Powerpoint\\[6pt] 
-    & \textbf{Adobe Tools}\\
-    & Photoshop --- Dreamweaver --- Premiere Pro \\[6pt]
-    & \textbf{Statistical Analytic Tools}\\
-    & SPSS --- STATISTICA 12 \\[6pt]
+    \mbox{\textsc{Software Experience}}
     & \textbf{Tools for Programming} \\
-    & Jupyter Notebook --- Git --- GitHub \\
+    & Git --- GitHub --- Jupyter Notebook --- VS Code \\[6pt]
+    & \textbf{Statistical Analytic Tools}\\
+    & SPSS --- STATISTICA 12 --- Microsoft Excel \\[6pt]
+    & \textbf{Project Management Tools}\\
+    & Jira --- Confluence --- Notion\\[6pt]
+    & \textbf{Adobe Creative Tools}\\
+    & Photoshop --- Dreamweaver --- Premiere Pro \\     
     \end{array}$$
 
 # References {#references .unnumbered}
